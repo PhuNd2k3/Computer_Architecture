@@ -1,0 +1,8 @@
+Sinh viên đọc và tìm hiểu cách làm việc với các thiết bị ngoại vi LED PORT và BITMAP DISPLAY.
+Sau đó làm các bài tập thực hành sau:
+Bài 1. Hiển thị 2 chữ số cuối của MSSV
+Bài 2. Nhập vào một số nguyên từ bàn phím, hiển thị 2 chữ số cuối của số nguyên đó
+Bài 3. Nhập vào ký tự, hiển thị 2 chữ số cuối của mã ASCII của ký tự đó
+Bài 4. Vẽ ô bàn cờ vua kích thước 8x8, chọn 2 màu bất kỳ (khác màu đen)
+Bài 5 (***). Nhập vào 2 điểm có tọa độ (x1, y1) và (x2, y2) (x1 khác x2 và y1 khác y2), vẽ và tô màu hình chữ nhật có 2 góc là 2 điểm trên với viền màu đỏ rộng 1 đơn vị và nền màu xanh lá.
+Báo cáo bao gồm mã nguồn và ảnh chụp minh họa kết quả các bài trên.
