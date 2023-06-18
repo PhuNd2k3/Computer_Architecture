@@ -1,0 +1,16 @@
+loi muc 5: khong nhap gi, nhap ky tu
+	-1: chuoi ky tu (dau cach, ky tu khac chu so)
+	-2: cancel
+	-3: Ok duoc chon nhung nguoi dung khong nhap gi
+
+muc 7: 	khai bao n -> n-1 (ket thuc xau)
+	nho hon n-1 -> chen them xuong dong \n (cac truong hop khac chen them null)
+
+Mot ky tu duoc bieu dien bang 2 cach: bieu dien bang ban than ky tu, ma acii
+
+nop: lenh khong de lam gi ca ? -> keo dai chu ky lenh them 1 chu ky -> bai khac
+	=> dam bao lenh nhay va re nhanh thuc hien dung
+
+HA2: gan them dia chi
+HA3:them get string, do dai luu o $t0
+
